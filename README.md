@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Neupane(@nayush10)
 - 👀 I’m interested in Programming,Developing.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently Flutter Developer.
 - 💞️ I’m looking to collaborate on different flutter project.
 - 📫 How to reach me ayush.neupane7@gmail.com
 
